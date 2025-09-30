@@ -30,7 +30,7 @@ It automatically scans all logs in a given folder for suspicious keywords (like 
 
 ### 1️⃣ Clone the repo  
 ```bash
-git clone https://github.com/Akash-razzsec/razz-logradar.git
+git clone https://github.com/Akash-razzsec/razz-log_analyser.git
 cd razz-logradar
 ````
 
@@ -61,7 +61,7 @@ pip install -r requirements.txt
 ### 4️⃣ Run the tool
 
 ```bash
-python logradar.py
+python log_analyser.py
 ```
 
 ---
@@ -72,7 +72,7 @@ python logradar.py
 2. Run the script:
 
 ```bash
-python logradar.py
+python log_analyser.py
 ```
 
 3. Enter folder path when asked → e.g., `logs/`
@@ -84,7 +84,7 @@ python logradar.py
 ## 📸 Demo
 
 ```bash
-$ python logradar.py
+$ python log_analyser.py
 Enter log folder path: logs/
 Enter suspicious words (comma separated): error, failed
 
@@ -93,18 +93,9 @@ Enter suspicious words (comma separated): error, failed
 
 ---
 
-## 📢 Branding
-
 🔹 **Developed by:** Razz Security Academy
 
 ## ⚠ Disclaimer
 
 This tool is built **only for educational purposes**.
 Razz Security Academy is **not responsible** for any misuse.
-
-```
-
----
-
-Do you also want me to prepare a **ready-to-go `requirements.txt` + `logradar.py` starter code** so your repo looks professional right away?
-```
