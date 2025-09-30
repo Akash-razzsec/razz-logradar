@@ -1,3 +1,4 @@
+<img width="731" height="188" alt="image" src="https://github.com/user-attachments/assets/b68f30f8-7bdc-4312-8244-b81070d2bf3a" />
 
 ````markdown
 # 📊 Razz-LogRadar  
