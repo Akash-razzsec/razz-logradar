@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.sublime-project
+.idea/
+.vscode/
+suspicious_log.txt
