@@ -1,4 +1,3 @@
-Got it 👍 — here’s the **README.md** in proper format so you can copy-paste directly into your repo:
 
 ````markdown
 # 📊 Razz-LogRadar  
